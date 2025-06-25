@@ -16,10 +16,10 @@ I'm **Nagavishnu Karthik B S**, a tech-savvy and design-oriented developer who l
 ## 🧠 Tech Stack
 
 ### 💬 Languages  
-`HTML5` • `CSS3` • `C` • `C++` • `Java` • `Python` • `JavaScript`
+`C` • `C++` • `Java` • `Python` • `JavaScript`
 
 ### 🎨 Frontend  
-`React.js` • `Tailwind CSS` • `Figma`
+`HTML5` • `CSS3` • `React.js` • `Tailwind CSS` • `Figma`
 
 ### 🔧 Backend  
 `Node.js` • `Express.js` • `Flask` • `XAMPP (SQL & PHP)`
