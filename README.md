@@ -70,8 +70,8 @@ A creative and animated personal portfolio inspired by the Marvel Infinity theme
 ## 📫 Let's Connect
 
 - 📧 **Email:** [nagavishnukarthikbs@gmail.com](mailto:nagavishnukarthikbs@gmail.com)  
-- 💼 **LinkedIn:** [Nagavishnu Karthik B S](https://www.linkedin.com/in/nagavishnukarthikbs)  
-- 💻 **GitHub:** [@nagavishnukarthikbs](https://github.com/nagavishnukarthikbs)
+- 💼 **LinkedIn:** [Nagavishnu Karthik B S](https://www.linkedin.com/in/naga-vishnu-karthik-b-s/)  
+- 💻 **GitHub:** [@nagavishnu-05](https://github.com/nagavishnu-05)
 
 ---
 
