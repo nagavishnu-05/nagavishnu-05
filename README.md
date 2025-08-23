@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://www.fontspace.com/category/anime"><img src="https://see.fontimg.com/api/rf5/zAqL/YzQ4YzhkMzNmMDBjNDQ1ZTkzNjA5NjBiZjI2NzYyNjcudHRm/SEVMTE8gVEhFUkUgIQ/one-piece.png?r=fs&h=32&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=32" alt="Anime fonts"></a>
+  <a href="https://www.fontspace.com/category/anime"><img src="https://see.fontimg.com/api/rf5/zAqL/YzQ4YzhkMzNmMDBjNDQ1ZTkzNjA5NjBiZjI2NzYyNjcudHRm/SEVMTE8gVEhFUkUgIQ/one-piece.png?r=fs&h=48&w=1250&fg=000000&bg=FFFFFF&tb=1&s=38" alt="Anime fonts"></a>
 </p>
 
 ---
 
 <h1 align="center">
-  <a href="https://www.fontspace.com/category/anime"><img src="https://see.fontimg.com/api/rf5/q2Mmx/MWEyNTljMWMzN2JhNGFjYmJkODk4ZGI0N2EzM2ZkOTAub3Rm/TkFHQVZJU0hOVSBLQVJUSElLIEIgUw/sukajan-brush-demo-regular.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Anime fonts"></a>
+  <a href="https://www.fontspace.com/category/anime"><img src="https://see.fontimg.com/api/rf5/q2Mmx/MWEyNTljMWMzN2JhNGFjYmJkODk4ZGI0N2EzM2ZkOTAub3Rm/TkFHQVZJU0hOVSBLQVJUSElLIEIgUw/sukajan-brush-demo-regular.png?r=fs&h=71&w=1250&fg=000000&bg=FFFFFF&tb=1&s=57" alt="Anime fonts"></a>
 </h1>
 
 <p align="center">
