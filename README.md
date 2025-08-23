@@ -61,7 +61,7 @@ From **pixel-perfect UIs** to **scalable full-stack apps**, I thrive on transfor
 
 ### 🍴 ForkFinder  
 Restaurant discovery platform with user-first design.  
-**Tech:** Figma  
+**Tech:** Figma
 
 ### 🧑‍🏫 Student Attendance Management  
 Full-stack app to track attendance with MongoDB.  
