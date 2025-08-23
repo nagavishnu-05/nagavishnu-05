@@ -1,92 +1,127 @@
-<h1 align="center">👋 Hello, I'm Nagavishnu Karthik B S</h1>
 <p align="center">
-  💻 A passionate Full Stack Developer & UI/UX Enthusiast<br>
-  🎓 CSE Undergrad at Velammal College of Engineering and Technology<br>
-  🌱 Always learning, building, and iterating
+  <a href="https://www.fontspace.com/category/anime"><img src="https://see.fontimg.com/api/rf5/zAqL/YzQ4YzhkMzNmMDBjNDQ1ZTkzNjA5NjBiZjI2NzYyNjcudHRm/SEVMTE8gVEhFUkUgIQ/one-piece.png?r=fs&h=32&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=32" alt="Anime fonts"></a>
 </p>
 
 ---
 
-## 💡 About Me
+<h1 align="center">
+  <a href="https://www.fontspace.com/category/anime"><img src="https://see.fontimg.com/api/rf5/q2Mmx/MWEyNTljMWMzN2JhNGFjYmJkODk4ZGI0N2EzM2ZkOTAub3Rm/TkFHQVZJU0hOVSBLQVJUSElLIEIgUw/sukajan-brush-demo-regular.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Anime fonts"></a>
+</h1>
 
-I'm **Nagavishnu Karthik B S**, a tech enthusiast who thrives at the intersection of creativity and logic.
-
-I'm not just a developer who writes code — I'm a **builder of experiences**, someone who enjoys crafting meaningful, user-friendly applications that balance form and function.
-
-From designing intuitive UIs to building scalable full-stack solutions, I love turning concepts into real-world applications that serve, inspire, and elevate the user. Whether it's hacking together something exciting at 2 AM or refining a pixel-perfect layout, I’m in my element when I’m creating something impactful.
-
-🧩 I think in systems, design with empathy, and code with curiosity.  
-🎯 My mission? To create tools and interfaces that *actually solve problems* and *look amazing doing it*.
+<p align="center">
+  💻 Full Stack Developer • 🎨 UI/UX Enthusiast • 🚀 Tech Explorer  
+  <br>
+  🎓 CSE Undergrad @ Velammal College of Engineering and Technology  
+  🌱 Continuously learning, building, and innovating  
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 💡 About Me  
+
+I'm **Nagavishnu Karthik B S**, a developer who blends creativity with logic.  
+I don’t just write code — I **design experiences** that balance aesthetics with performance.  
+
+From **pixel-perfect UIs** to **scalable full-stack apps**, I thrive on transforming ideas into impactful solutions.  
+
+🧩 **I think in systems** • 🎯 **I design with empathy** • 🔍 **I code with curiosity**
+
+---
+
+## 🧠 Tech Arsenal  
 
 ### 💬 Languages  
-`C` • `C++` • `Java` • `Python` • `JavaScript`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" height="50"/>
+</div>
 
 ### 🎨 Frontend  
-`HTML5` • `CSS3` • `React.js` • `Tailwind CSS` • `Figma`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma" height="50"/>
+</div>
 
 ### 🔧 Backend  
-`Node.js` • `Express.js` • `Flask` • `XAMPP (SQL & PHP)`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php" height="50"/>
+</div>
 
 ### 🗄 Databases  
-`MongoDB` • `MySQL` • `SQL`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"/>
+</div>
 
 ### 🛠 Tools  
-`Git` • `GitHub` • `VS Code` • `EmailJS`
-
-### ❤️ Interests  
-`Full Stack Development` • `UI/UX Design` • `Frontend Engineering`
-
----
-
-## 🏗️ Projects
-
-### 🍴 FORKFINDER (UI/UX Design)  
-A restaurant discovery and recommendation platform designed with user flow and aesthetics in mind.  
-**Tech:** Figma
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"/>
+</div>
 
 ---
+
+## 🏗️ Featured Projects  
+
+### 🍴 ForkFinder  
+Restaurant discovery platform with user-first design.  
+**Tech:** Figma  
 
 ### 🧑‍🏫 Student Attendance Management  
-A full-stack web app for tracking attendance using dynamic web forms and MongoDB storage.  
-**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
-
----
+Full-stack app to track attendance with MongoDB.  
+**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB  
 
 ### 🚀 VCET-Attendo  
-An advanced and modular React.js upgrade of the previous attendance system with better UI and performance.  
-**Tech:** React.js, JavaScript, CSS
-
----
+React.js upgrade with modular and performant UI.  
+**Tech:** React.js, JavaScript, CSS  
 
 ### 🖼️ Image Background Remover  
-A Python-based web tool to remove image backgrounds via Flask backend.  
-**Tech:** HTML, CSS, Python (Flask)
-
----
+Flask-based tool to remove image backgrounds.  
+**Tech:** Python, Flask, HTML, CSS  
 
 ### 💼 Marvel-Themed Infinite Portfolio  
-A creative and animated personal portfolio inspired by the Marvel Infinity theme, with smooth transitions and custom visuals.  
-**Tech:** React.js, Tailwind CSS, JavaScript, EmailJS
+Animated, Marvel-inspired portfolio with smooth UI.  
+**Tech:** React.js, Tailwind CSS, EmailJS  
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats  
 
-- 📧 **Email:** [nagavishnukarthikbs@gmail.com](mailto:nagavishnukarthikbs@gmail.com)  
-- 💼 **LinkedIn:** [Nagavishnu Karthik B S](https://www.linkedin.com/in/naga-vishnu-karthik-b-s/)  
-- 💻 **GitHub:** [@nagavishnu-05](https://github.com/nagavishnu-05)
-
----
-
-## ⚡ Fun Fact
-
-> I believe the best UIs are invisible — they guide the user so naturally that they feel like magic. Let's code some magic together!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagavishnu-05&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagavishnu-05&theme=tokyonight" height="160" />
+</div>
 
 ---
 
-⭐ **Thanks for visiting!**  
-Feel free to check out my repositories, raise issues, suggest improvements, or just drop a star ⭐
+## 🏆 LeetCode Stats  
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nagavishnukarthikbs?theme=dark&font=Comic%20Neue&ext=heatmap" height="300"/>
+</div>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:nagavishnukarthikbs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/naga-vishnu-karthik-b-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nagavishnu-05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/nagavishnukarthikbs/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+> The best UIs are invisible — guiding users so naturally that they feel like *magic*.  
+✨ Let’s build some **magic** together!  
+
+---
+
+<h3 align="center">⭐ Thanks for visiting ⭐</h3>
